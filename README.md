@@ -13,3 +13,6 @@ The game focuses on using the following:
 * document.querySelector
 * Timeout
 * switch case
+
+[Try it here!](https://bgeorgiev268.github.io/Space-Invaders/
+) 
